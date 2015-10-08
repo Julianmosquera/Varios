@@ -20,6 +20,7 @@ public class Proyectoalfa {
         pagado=obx.nextFloat();
         total=((precio-pagado)/precio)*100;
         System.out.println("Descuento="+total+"%");
+        //Para la practica
     }
     
 }
